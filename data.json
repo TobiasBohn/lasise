@@ -1,0 +1,66 @@
+{
+  "lastupdate": "05.06.2019",
+  "cars": [
+    {
+      "name": "Ford T-Modell",
+      "times": [
+        {
+          "date": "2019-04-26",
+          "time": "2:42.4",
+          "comment": "",
+          "quelle": "https://www.youtube.com/watch?v=XLcgBeuQNe4"
+        }
+      ]
+    },
+    {
+      "name": "Nissan GT-R R35 (alt)",
+      "times": [
+        {
+          "date": "2019-05-14",
+          "time": "0:54.5",
+          "comment": "Alte Reifen (2012)",
+          "quelle": "https://www.youtube.com/watch?v=bTYsIlyRjOg"
+        }
+      ]
+    },
+    {
+      "name": "BMW E36 V8",
+      "times": [
+        {
+          "date": "2019-05-06",
+          "time": "1:07.4",
+          "comment": "Viel zu Tief,\nRad-Reifen-Kombination unpassend",
+          "quelle": "https://www.youtube.com/watch?v=D31XjOFoPAw"
+        }
+      ]
+    },
+    {
+      "name": "Chevrolet Camaro",
+      "times": [
+        {
+          "date": "2019-05-06",
+          "time": "0:59.1",
+          "comment": "Serienmäßig",
+          "quelle": "https://www.youtube.com/watch?v=wMPaqrBI9vA"
+        }
+      ]
+    },
+    {
+      "name": "BMW E46 M3",
+      "times": [
+        {
+          "date": "2019-05-06",
+          "time": "1:02:0",
+          "comment": "Serienmäßig",
+          "quelle": "https://www.youtube.com/watch?v=vZ5e_dfOKKw"
+        },
+        {
+          "date": "2019-05-14",
+          "time": "1:00.2",
+          "comment": "neues Fahrwerk",
+          "quelle": "https://www.youtube.com/watch?v=wqkcLN1o8oA"
+        }
+      ]
+    }
+  ]
+}

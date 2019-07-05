@@ -1,4 +1,4 @@
-<?php require_once('inc/header.html');    // Output body->header ?>
+<?php require_once('inc/header.php');    // Output body->header ?>
 
 <section class="container text-white">
     <h1>Impressum</h1>
@@ -10,4 +10,4 @@
     <p>E-Mail: info@devdazzler.com</p>
 </section>
 
-<?php require_once('inc/footer.html');    // Output body->footer ?>
+<?php require_once('inc/footer.php');    // Output body->footer ?>
