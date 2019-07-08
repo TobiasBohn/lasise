@@ -4,6 +4,10 @@ require_once('inc/header.php');    // Output body->header
 
 // get Data
 $json = file_get_contents("data.json"); 
+if($json === false) {
+   die('Error reading data.json file, is it missing?');
+}
+
 //Decode JSON
 $json_data = json_decode($json,true);
 
