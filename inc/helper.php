@@ -1,5 +1,10 @@
 <?php
 /*
+ * Data file name.
+*/
+define('DATA_FILE', 'data.json');
+
+/*
  * Mehrdemension Array durchsuchen
  * Code von: phpdotnet at m4tt dot co dot uk
  * Link: https://www.php.net/manual/de/function.sort.php#99419

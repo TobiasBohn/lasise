@@ -3,7 +3,11 @@ require_once('inc/helper.php');     // helper function
 require_once('inc/header.php');    // Output body->header
 
 // get Data
-$json = file_get_contents("data.json"); 
+$json = file_get_contents(DATA_FILE); 
+if($json === false) {
+   die('Error reading ' . DATA_FILE . ' file, is it missing?');
+}
+
 //Decode JSON
 $json_data = json_decode($json,true);
 
