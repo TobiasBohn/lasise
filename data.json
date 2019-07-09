@@ -1,5 +1,5 @@
 {
-  "lastupdate": "2019-06-05",
+  "lastupdate": "2019-07-08",
   "cars": [
     {
       "name": "Ford T-Modell",
@@ -42,6 +42,12 @@
           "time": "0:59.1",
           "comment": "Serienmäßig",
           "quelle": "https://www.youtube.com/watch?v=wMPaqrBI9vA"
+        },
+        {
+          "date": "2019-05-14",
+          "time": "0:56.0",
+          "comment": "Fahrwerk",
+          "quelle": "https://www.youtube.com/watch?v=qvLNdKvCNlE"
         }
       ]
     },
@@ -59,6 +65,17 @@
           "time": "1:00.2",
           "comment": "neues Fahrwerk",
           "quelle": "https://www.youtube.com/watch?v=wqkcLN1o8oA"
+        }
+      ]
+    },
+    {
+      "name": "KTM X-Bow",
+      "times": [
+        {
+          "date": "2019-06-13",
+          "time": "0:55.9",
+          "comment": "Softwaren\nAbgasanlage\nFahrwerk\nAerodynamik",
+          "quelle": "https://www.youtube.com/watch?v=5JRGLIoxkD4"
         }
       ]
     }
