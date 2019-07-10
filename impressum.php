@@ -1,4 +1,7 @@
-<?php require_once('inc/header.php');    // Output body->header ?>
+<?php 
+require_once('inc/helper.php');     // helper function
+require_once('inc/header.php');    // Output body->header 
+?>
 
 <section class="container text-white">
     <h1>Impressum</h1>
