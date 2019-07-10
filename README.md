@@ -20,3 +20,7 @@ Die data.json kann nicht immer aktuell sein! Die aktuelle Datei findet Ihr immer
 
     ** 2019-07-08 **
     - Code Optimierung (danke an: https://github.com/irworks)
+
+    ** 2019-07-10 **
+    - Ford Fiesta ST Zeit hinzugefügt (danke an: https://github.com/smaxx1337)
+    - Datenschutz.php und Impressum.php die helper.php includet
