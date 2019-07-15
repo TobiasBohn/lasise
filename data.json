@@ -89,6 +89,17 @@
           "quelle": "https://www.youtube.com/watch?v=dyO3s9J3FtE"
         }
       ]
+    },
+    {
+      "name": "BMW M4",
+      "times": [
+        {
+          "date": "2019-06-03",
+          "time": "0:57.7",
+          "comment": "Software\nTurbolader",
+          "quelle": "https://www.youtube.com/watch?v=Iqf5hWwUI-E"
+        }
+      ]
     }
   ]
 }
