@@ -35,3 +35,6 @@ Das komplette Projekt steht unter der [GPL-3.0](https://github.com/TobiasBohn/la
 
  ##### 23.07.2019
  * BMW M3 E30 Zeit hinzugefügt
+
+ ##### 31.07.2019
+ * Mercedes-Benz G500 Zeit hinzugefügt

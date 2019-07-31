@@ -1,5 +1,5 @@
 {
-  "lastupdate": "2019-07-15",
+  "lastupdate": "2019-07-31",
   "cars": [
     {
       "name": "Ford T-Modell",
@@ -109,6 +109,17 @@
           "time": "1:07.1",
           "comment": "",
           "quelle": "https://www.youtube.com/watch?v=vohSkebWFaY"
+        }
+      ]
+    },
+    {
+      "name": "Mercedes Benz G500",
+      "times": [
+        {
+          "date": "2019-06-13",
+          "time": "1:10.1",
+          "comment": "",
+          "quelle": "https://www.youtube.com/watch?v=hK1QkdV_jiM"
         }
       ]
     }
