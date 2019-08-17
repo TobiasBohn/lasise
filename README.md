@@ -38,3 +38,8 @@ Das komplette Projekt steht unter der [GPL-3.0](https://github.com/TobiasBohn/la
 
  ##### 31.07.2019
  * Mercedes-Benz G500 Zeit hinzugefügt
+
+ ##### 17.08.2019
+ * Ford Transit Zeit hinzugefügt
+ * Kraemos CUBE Fahrrad Zeit hinzugefügt
+ * Opel Insignia GSi Zeit hinzugefügt
